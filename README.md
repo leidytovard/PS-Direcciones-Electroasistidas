@@ -1,0 +1,79 @@
+[index.html](https://github.com/user-attachments/files/33699223/index.html)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PS Direcciones electroasistidas | Inicio</title>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="./assets/Logo_PS.png">
+        </div>
+        <div>
+            <a href="./index.html">
+                <h1>PS Direcciones electroasistidas</h1>
+            </a>
+            <p>Tu dirección segura, tu camino confiable</p>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="./index.html">Inicio</a></li>
+                <li><a href="./pages/nosotros.html">Nosotros</a></li>
+                <li><a href="./pages/servicios.html">Servicios</a></li>
+                <li><a href="./pages/repuestos.html">Repuestos</a></li>
+                <li><a href="./pages/contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div>
+            <img src="./assets/Banner_index.jpg" alt="Servicio de mantenimiento, revisión y reparación de sistemas de direcciones electroasistidas">
+        </div>
+        <section>
+            <div>
+                <h2>Especialistas en direcciones electroasistidas</h2>
+            </div>
+            <p>En PS Direcciones Electroasistidas somos especialistas en diagnóstico, reparación, calibración y programación de sistemas de dirección electroasistida.
+                <br>Contamos con tecnología especializada y una amplia variedad de repuestos importados para diferentes marcas y modelos de vehículos. 
+                <br>Trabajamos con compromiso, precisión y calidad para ofrecerte soluciones confiables y mantener tu vehículo en las mejores condiciones.</p>
+            <p>Tecnología, experiencia y respaldo para que sigas tu camino con confianza.</p>
+        </section>
+        <section>
+            <div>
+                <h2>Repuestos para todas las marcas</h2>
+            </div>
+            <article>
+                <h3>Chevrolet</h3>
+                <img src="./assets/chevrolet.jpg">
+            </article>
+            <article>
+                <h3>Kia</h3>
+                <img src="./assets/kia.jpg">
+            </article>
+            <article>
+                <h3>Mercedes Benz</h3>
+                <img src="./assets/mercedes.jpg">
+            </article>            
+        </section>
+    </main>
+    
+    <footer>
+        <p>Texto copyright</p>
+        <h2>¡Suscríbete!</h2>
+        <form>
+            <label for="emailSuscribete">Déjanos tu email</label>
+            <input type="email" id="emailSuscribete">
+        </form>
+        <h2>¡Síguenos!</h2> 
+        <ul>
+            <li><a target="_blank" href="https://www.instagram.com/ps_direccioneselectroasistidas?utm_source=ig_web_button_share_sheet&cplk=ZDNlZDc0MzIxNw==">Instagram</a></il>
+            <br>
+            <li><a target="_blank" href="https://www.facebook.com/share/1Nu34ZAwPq/">Facebook</a></il>
+        </ul> 
+    </footer>
+
+</body>
+</html>
